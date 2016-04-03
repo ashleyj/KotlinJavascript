@@ -1,0 +1,39 @@
+nav ul {
+    list-style: none; padding: 5px 20px; width: 478px; position: relative;
+    left: -9px;
+}
+nav ul li { display: inline; }
+
+body {
+    padding-top: 2%;
+    width: 50%;
+    margin: 0
+    auto;
+}
+
+#main_content {
+    width: 50%;
+}
+
+#label {
+    float: left;
+    width: 20%;
+    padding-bottom: 10px;
+}
+#subject {
+    float: left;
+    width: 80%;
+}
+
+#submit  {
+  float: left;
+  height: 50%;
+  width: 100%;
+}
+#body {
+  float: left;
+  height: 50%;
+  width: 100%;
+}
+
+
